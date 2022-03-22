@@ -2,6 +2,8 @@
 
 This repository contains all datasets and scripts used to analyse the results in the article ***Mobile robots for in-process monitoring of aircraft systems assemblies***.
 
+A video of the system in operation can be found at: [https://youtu.be/aqVmEy09ctk](https://youtu.be/aqVmEy09ctk)
+
 ## Requirements
 
 To run the scripts the following products are required:

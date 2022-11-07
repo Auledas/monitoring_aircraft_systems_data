@@ -23,7 +23,7 @@ To run the scripts the following products are required:
 
 The datasets were obtained in the following experimental setup:
 
-<img src="https://github.com/Auledas/monitoring_aircraft_systems_data/blob/main/Dataset 1. Localisation/ExperimentSetup.jpg" width="640" alt="Localisation results">
+<img src="https://github.com/Auledas/monitoring_aircraft_systems_data/blob/main/Dataset 6. Follower tests/20220913_163718.jpg" width="640" alt="MiR200 following tests using the omnidirectional planar thermal sensor">
 
 # Authors
 
